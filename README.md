@@ -12,6 +12,9 @@ Overview:
 
 Architecture and Training:
 
-- This project trains and deploys an Extreme Gradient Boost (XGBoost) model to classify unseen data as Malignant (M) or Benign (B).  
+- Extracted the raw dataset from the internet that has different biological attributes such as radius mean, concavity, perimeter and many more.
+- Performed data analysis looking for null, invalid and outlier data points that would affect the accuracy of the model.
+- Derived insights by executing exploratory data analysis on the dataset by plotting various attributes and correlating Diagnosis attribute with others.
+- Trained and deployed an Extreme Gradient Boost (XGBoost) model to classify unseen data as Malignant (M) or Benign (B).  
 - Using Python as the primary languages, I compared all machine learning models including Logic Regression, Naive Bayes, K-Neighbour Classifier, and deployed the XGBoost algorithm   out of all.
 - Tuned the hyperparameters to increase the accuracy of the XGBoost model from 97% to 99%.
