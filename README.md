@@ -6,7 +6,7 @@ Breast cancer is cancer that forms in the cells of the breasts. Breast cancer ca
 
 Overview:
 
-- In 2019 an estimated 26,900 Canadian women will be diagnosed with breast cancer and 5,000 will die of it.
+- In 2019 an estimated 26,900 Canadian women were diagnosed with breast cancer and 5,000 died of it.
 - Breast cancer accounts for approximately 25% of new cases of cancer and 13% of all cancer deaths in Canadian women.
 - 1 in 8 women are expected to develop breast cancer during her lifetime and 1 in 33 will die of it.
 
